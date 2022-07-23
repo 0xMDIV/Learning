@@ -1,1 +1,3 @@
-document.write("hello");
+function increment() {
+        console.log("The button was clicked")
+    }
